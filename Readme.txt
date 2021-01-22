@@ -1,43 +1,43 @@
-TRAFİK AKIŞININ MODELLENMESİ
+TRAFÄ°K AKIÅININ MODELLENMESÄ°
 
+Onur KuÅŸ	-	170201030
 Aziz Yelbay	-	170201046
-Onur Kuş	-	170201030
 
-Bu readme.txt dosyası, trafik akışı modellenmesi projesine aittir.
-
+Bu readme.txt dosyasÄ±, trafik akÄ±ÅŸÄ± modellenmesi projesine aittir.
 
 
-1-PAKETİN İÇERİĞİ:
+
+1-PAKETÄ°N Ä°Ã‡ERÄ°ÄÄ°:
 ----------
-170201046-170201030 .txt - Projenin tek dosyaya indirgenmiş salt kaynak kodu.
+170201046-170201030 .txt - Projenin tek dosyaya indirgenmiÅŸ salt kaynak kodu.
 readme.txt - Bu dosya.
-Prolab1p1.zip - Projenin kaynak kodunun ve yardımcı dosyaların ziplenmiş hali.
+Prolab1p1.zip - Projenin kaynak kodunun ve yardÄ±mcÄ± dosyalarÄ±n ziplenmiÅŸ hali.
 rapor.docx - Proje raporu.
 ----------
 
 
-2-SİSTEM GEREKSİNİMLERİ:
+2-SÄ°STEM GEREKSÄ°NÄ°MLERÄ°:
 -------------------
-CodeBlocks geliştirme ortamı ve allegro kütüphanesi
+CodeBlocks geliÅŸtirme ortamÄ± ve allegro kÃ¼tÃ¼phanesi
 -------------------
 
 
-3-PROJEYİ ÇALIŞTIRMAK:
+3-PROJEYÄ° Ã‡ALIÅTIRMAK:
 -------------------
-Paket içeriğini yukarıda görebilirsiniz.
+Paket iÃ§eriÄŸini yukarÄ±da gÃ¶rebilirsiniz.
 
-CodeBlocks ortamında derleyip çalıştırmak yeterlidir.
+CodeBlocks ortamÄ±nda derleyip Ã§alÄ±ÅŸtÄ±rmak yeterlidir.
 
 
 4- PARAMETRELER
 ---------------------------
-Kodun çalışması için başlangıçta herhangi bir parametre gerekmiyor.
+Kodun Ã§alÄ±ÅŸmasÄ± iÃ§in baÅŸlangÄ±Ã§ta herhangi bir parametre gerekmiyor.
 ------------------
 
 
 5- PROGRAMIN KULLANIMI
 -----------------------------
-Trafik akışı modellenmesi programımız kullanıcıya 2 adet harita seçimi sunar. 
-Seçim yapıldıktan sonra seçilen harita üzerinden 2’şerli olmak üzere giriş-çıkış (kullanıcı ikiden fazla giriş ya da çıkış verisi girmesi engellenmiştir) ve bu ana yollara bağlı ara yolların yönleri şekiller ile tayin ettirilir. 
-Ardından kullanıcı istediği caddelere ortalama araç sayısını girmesini ve değeri bilinmeyen caddeler içinse -1 değeri girilmesi istenir.
-Kesişimlere göre denklemler olusturulur.Denklemlerdeki bilinmeyenlerin katsayilari ve sabit degerler matrise yazdirir.Matrise göre program bilinmeyenleri bularak ekrana yazdırır.
+Trafik akÄ±ÅŸÄ± modellenmesi programÄ±mÄ±z kullanÄ±cÄ±ya 2 adet harita seÃ§imi sunar. 
+SeÃ§im yapÄ±ldÄ±ktan sonra seÃ§ilen harita Ã¼zerinden 2â€™ÅŸerli olmak Ã¼zere giriÅŸ-Ã§Ä±kÄ±ÅŸ (kullanÄ±cÄ± ikiden fazla giriÅŸ ya da Ã§Ä±kÄ±ÅŸ verisi girmesi engellenmiÅŸtir) ve bu ana yollara baÄŸlÄ± ara yollarÄ±n yÃ¶nleri ÅŸekiller ile tayin ettirilir. 
+ArdÄ±ndan kullanÄ±cÄ± istediÄŸi caddelere ortalama araÃ§ sayÄ±sÄ±nÄ± girmesini ve deÄŸeri bilinmeyen caddeler iÃ§inse -1 deÄŸeri girilmesi istenir.
+KesiÅŸimlere gÃ¶re denklemler olusturulur.Denklemlerdeki bilinmeyenlerin katsayilari ve sabit degerler matrise yazdirir.Matrise gÃ¶re program bilinmeyenleri bularak ekrana yazdÄ±rÄ±r.
