@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539641803 source:c:\users\lenovo\desktop\projemct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1540917665 source:d:\prolab projeleri\prolab 1\prolab1p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
